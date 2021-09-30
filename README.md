@@ -1,12 +1,9 @@
-### Hi there 👋
-
 <!--
 **CyberTomB/CyberTomB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,3 +11,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Thanks for stopping by!
+
+### My name's Tom. I'm a full-stack web developer, learning and expanding my code knowledge every day! I love computer science, cryptogaphy, and all things cyberpunk.
+
+<br></br>
+- 🌱 I’m currently learning about Docker, INDEX actions in SQL, and Clojure.
+- 💬 Ask me about Android: Netrunner!
+- 📫 How to reach me: tomcbowers@gmail.com or add me on [LinkedIn](https://www.linkedin.com/in/tombowers93/)
+<br></br>
+>"I have only made this letter longer because I have not had the time to make it shorter." <br>
+-- Blaise Pascal, The Provincial Letters
