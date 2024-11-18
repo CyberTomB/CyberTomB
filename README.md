@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 -->
 # Thanks for stopping by!
 
-### My name's Tom. I'm a full-stack web developer, learning and expanding my code knowledge every day! I love computer science, cryptogaphy, and all things cyberpunk.
+### My name's Tom. I'm a full-stack web developer and data scientist, learning and expanding my code knowledge every day! I love computer science, cryptogaphy, and all things cyberpunk.
 
 <br></br>
-- 🌱 I’m currently learning about Docker, INDEX actions in SQL, and Clojure.
+- 🌱 I’m currently learning about IoT Infrastructure and Cloud Computing (at WGU!).
 - 💬 Ask me about Android: Netrunner!
 - 📫 How to reach me: tomcbowers@gmail.com or add me on [LinkedIn](https://www.linkedin.com/in/tombowers93/)
 <br></br>
