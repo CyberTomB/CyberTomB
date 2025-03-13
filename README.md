@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 ### My name's Tom. I'm a full-stack web developer and data scientist, learning and expanding my code knowledge every day! I love computer science, cryptogaphy, and all things cyberpunk.
 
 <br></br>
-- 🌱 I’m currently learning about IoT Infrastructure and Cloud Computing (at WGU!).
-- 💬 Ask me about Android: Netrunner!
+- 🌱 I’m currently working to earn my CompTIA Network+ as part of my Cloud Computing degree (at WGU!).
+- 💬 Ask me about Android: Netrunner or Hubworld: Aidalon!
 - 📫 How to reach me: tomcbowers@gmail.com or add me on [LinkedIn](https://www.linkedin.com/in/tombowers93/)
 <br></br>
 >"I have only made this letter longer because I have not had the time to make it shorter." <br>
