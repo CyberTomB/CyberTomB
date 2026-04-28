@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 -->
 # Thanks for stopping by!
 
-### My name's Tom. I'm a full-stack web developer and data scientist, learning and expanding my code knowledge every day! I love computer science, cryptogaphy, and all things cyberpunk.
+### My name's Tom. I'm probably [a tabletop gamer first](https://boardgamegeek.com/profile/Tomasaki19), web developer second, [podcast host third](https://www.shelfstablecast.com/), and data engineer when I need to be. Lately I find myself dreaming of rigging a private self-hosted cloud up and an army of raspberry pi's to implement self-written protocols for controlling my house's electrical features. We'll see how far I get with that.
 
 <br></br>
-- 🌱 I’m currently working to earn my CompTIA Network+ as part of my Cloud Computing degree (at WGU!).
+- 🌱 I’m 90% of the way done with my Cloud Computing degree at Western Governor's University! Expecting to graduate in August 2026.
 - 💬 Ask me about Android: Netrunner or Hubworld: Aidalon!
 - 📫 How to reach me: tomcbowers@gmail.com or add me on [LinkedIn](https://www.linkedin.com/in/tombowers93/)
 <br></br>
