@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 # Thanks for stopping by!
 
-### My name's Tom. I'm probably [a tabletop gamer first](https://boardgamegeek.com/profile/Tomasaki19), web developer second, [podcast host third](https://www.shelfstablecast.com/), and data engineer when I need to be. Lately I find myself dreaming of rigging a private self-hosted cloud up and an army of raspberry pi's to implement self-written protocols for controlling my house's electrical features. We'll see how far I get with that.
+### My name's Tom. I'm probably [a tabletop gamer first](https://boardgamegeek.com/profile/CyberDack), web developer second, [podcast host third](https://www.shelfstablecast.com/), and data engineer when I need to be. Lately I find myself dreaming of rigging a private self-hosted cloud up and an army of raspberry pi's to implement self-written protocols for controlling my house's electrical features. We'll see how far I get with that.
 
 <br></br>
 - 🌱 I’m 90% of the way done with my Cloud Computing degree at Western Governor's University! Expecting to graduate in August 2026.
